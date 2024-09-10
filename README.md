@@ -56,7 +56,7 @@ This is a section of the Cyfrin Solidity Course.
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
+git clone https://github.com/tomasleocadio/foundry-2ndvideo-fund-me
 cd foundry-fund-me-cu
 make
 ```
